@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Bold Gothic";
+  font-size: 20px;
+  line-height: 25px;
+  color: #000000;
+}
+
+h1 {
+  width: 255px;
+  margin: 0 auto 8px;
+  font-family: 
+  text-align
+  font-weight
+  font-size
+  line-height
+
+}
+
+h2 {
+  border-bottom: 2px solid #00000000;
+  padding-bottom: 12px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.site-header {
+  min-width: 300px;
+  height: 600px;
+  margin-bottom: 70px;
+  padding-top: 150px;
+  background-image: url('img/0d753bc2ffb8d1d7b0f5bfa7bba05364.jpg');
+  
+  color: #000000;
+}
+
+.site-header p {
+  width: 255px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
+.feature-furniture {
+  padding-top: 65px;
+  
+}
+
+.feature-lighting {
+  padding-top: 65px;
+  
+ 
+  
+  
+}
+
+.feature-accessories {
+  padding-top: px;
+  background-image: url("");
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid #757575;
+  color: #999999;
+}
+
+.standard {
+  border-color: #8a8a8a;
+  color: #6a6a6a;
+}
+
+.vip {
+  border-color: #7a7a7a;
+  color: #000000;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #929292;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+
